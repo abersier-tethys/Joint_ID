@@ -1,0 +1,11 @@
+__pycache__
+dataset_root
+
+Joint_ID_Dataset/**/*
+!**/.gitkeep
+
+sample_eval_result_joint.diml.joint_id
+
+# Model weights - download separately
+joint_id_ckpt.pth
+*.pth
