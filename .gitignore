@@ -1,8 +1,11 @@
 __pycache__
 dataset_root
 
-Joint_ID_Dataset/**/*
-!**/.gitkeep
+Joint_ID_Dataset/*
+!Joint_ID_Dataset/.gitkeep
+!Joint_ID_Dataset/pre-enhanced/
+Joint_ID_Dataset/pre-enhanced/*
+!Joint_ID_Dataset/pre-enhanced/.gitkeep
 
 sample_eval_result_joint.diml.joint_id
 
